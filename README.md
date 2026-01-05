@@ -9,7 +9,7 @@ The IRP lists all principal investigators here: https://irp.nih.gov/our-research
 
 [data/](data/)
 - authors.csv : This is a two column csv file storing lastname, firstname of NIH IRP Principal Investigators.
-- potential-irp-articles.csv :  The output of ExtractIRPBib.py after running FetchAuthorBib.py on authors.csv. The parameters in FetchAuthorBib.py limited the search for aricles published between 2022 and 2026. 
+- potential-irp-articles.csv :  The output of ExtractIRPBib.py after running FetchAuthorBib.py on authors.csv. The parameters in FetchAuthorBib.py limited the search for aricles published between 2020 and 2026. 
 
 # How-to-use
 1) I strongly recommend obtaining an API-Key from NCBI before running FetchAuthBib.py. You can do that be creating an account with [NCBI](https://pubmed.ncbi.nlm.nih.gov/) and then navigating to "Account Settings". The option generate an API-Key will be at the bottom of the screen.
